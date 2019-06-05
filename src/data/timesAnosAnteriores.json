@@ -1,0 +1,162 @@
+[
+  {
+    "input": {
+      "pontos": 16,
+      "saldoGols": 11,
+      "golsPro": 14
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "saldoGols": 4,
+      "golsPro": 8
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "saldoGols": 3,
+      "golsPro": 6
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 14,
+      "saldoGols": 11,
+      "golsPro": 13
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "saldoGols": 9,
+      "golsPro": 15
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "saldoGols": 10,
+      "golsPro": 13
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "saldoGols": 5,
+      "golsPro": 14
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "saldoGols": 0,
+      "golsPro": 8
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "saldoGols": 3,
+      "golsPro": 7
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "saldoGols": 7,
+      "golsPro": 11
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "saldoGols": 6,
+      "golsPro": 11
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 16,
+      "saldoGols": 12,
+      "golsPro": 12
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 14,
+      "saldoGols": 9,
+      "golsPro": 16
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 7,
+      "saldoGols": 1,
+      "golsPro": 8
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "saldoGols": 2,
+      "golsPro": 12
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "saldoGols": 6,
+      "golsPro": 13
+    },
+    "output": {
+      "campeao": 0
+    }
+  }
+]
