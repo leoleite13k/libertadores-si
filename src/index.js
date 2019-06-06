@@ -1,14 +1,20 @@
 const brain = require("brain.js");
-const timesAnosAnteriores = require("./data/timesAnosAnteriores.json");
+const anosAnteriores = require("./data/anosAnteriores.json");
+const resultadosAtuais = require("./data/resultadosAtuais.json");
+const timesAtuais = require("./data/timesAtuais.json");
 
 const net = new brain.NeuralNetwork();
 
-net.train(timesAnosAnteriores);
+const results = [];
 
-const output = net.run({
-  pontos: 16,
-  saldoGols: 12,
-  golsPro: 12
+net.train(anosAnteriores);
+
+resultadosAtuais.map(item => {
+  results.push(net.run(item).campeao * 100);
 });
 
-console.log(output.campeao * 100);
+results.map((item, index) =>
+  console.log(
+    `Time: ${timesAtuais[index]} \nPorcentagem: ${item.toFixed(2)}% \n\n`
+  )
+);
