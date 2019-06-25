@@ -1,82 +1,98 @@
 [
   {
-    "pontos": 14,
-    "saldoGols": 5,
-    "golsPro": 11
-  },
-  {
-    "pontos": 10,
-    "saldoGols": 5,
-    "golsPro": 10
-  },
-  {
-    "pontos": 15,
-    "saldoGols": 9,
-    "golsPro": 11
-  },
-  {
     "pontos": 9,
-    "saldoGols": 1,
-    "golsPro": 6
-  },
-  {
-    "pontos": 9,
-    "saldoGols": 3,
-    "golsPro": 9
-  },
-  {
-    "pontos": 9,
-    "saldoGols": 2,
-    "golsPro": 5
-  },
-  {
-    "pontos": 10,
-    "saldoGols": 6,
-    "golsPro": 11
-  },
-  {
-    "pontos": 10,
-    "saldoGols": 4,
-    "golsPro": 12
-  },
-  {
-    "pontos": 13,
-    "saldoGols": 5,
-    "golsPro": 10
-  },
-  {
-    "pontos": 13,
-    "saldoGols": 3,
-    "golsPro": 5
-  },
-  {
-    "pontos": 15,
-    "saldoGols": 12,
-    "golsPro": 13
-  },
-  {
-    "pontos": 10,
-    "saldoGols": 2,
-    "golsPro": 4
+    "golsPro": 11,
+    "golsContra": 6,
+    "saldoGols": 5
   },
   {
     "pontos": 11,
-    "saldoGols": 5,
-    "golsPro": 11
+    "golsPro": 11,
+    "golsContra": 6,
+    "saldoGols": 5
+  },
+  {
+    "pontos": 13,
+    "golsPro": 10,
+    "golsContra": 5,
+    "saldoGols": 5
+  },
+  {
+    "pontos": 15,
+    "golsPro": 11,
+    "golsContra": 2,
+    "saldoGols": 9
   },
   {
     "pontos": 9,
-    "saldoGols": 5,
-    "golsPro": 11
-  },
-  {
-    "pontos": 12,
-    "saldoGols": 4,
-    "golsPro": 11
+    "golsPro": 6,
+    "golsContra": 5,
+    "saldoGols": 1
   },
   {
     "pontos": 10,
-    "saldoGols": 4,
-    "golsPro": 8
+    "golsPro": 11,
+    "golsContra": 5,
+    "saldoGols": 6
+  },
+  {
+    "pontos": 9,
+    "golsPro": 5,
+    "golsContra": 3,
+    "saldoGols": 2
+  },
+  {
+    "pontos": 12,
+    "golsPro": 8,
+    "golsContra": 4,
+    "saldoGols": 4
+  },
+  {
+    "pontos": 14,
+    "golsPro": 11,
+    "golsContra": 6,
+    "saldoGols": 5
+  },
+  {
+    "pontos": 10,
+    "golsPro": 12,
+    "golsContra": 8,
+    "saldoGols": 4
+  },
+  {
+    "pontos": 12,
+    "golsPro": 11,
+    "golsContra": 7,
+    "saldoGols": 4
+  },
+  {
+    "pontos": 13,
+    "golsPro": 5,
+    "golsContra": 2,
+    "saldoGols": 3
+  },
+  {
+    "pontos": 9,
+    "golsPro": 9,
+    "golsContra": 6,
+    "saldoGols": 3
+  },
+  {
+    "pontos": 15,
+    "golsPro": 13,
+    "golsContra": 1,
+    "saldoGols": 12
+  },
+  {
+    "pontos": 10,
+    "golsPro": 10,
+    "golsContra": 5,
+    "saldoGols": 5
+  },
+  {
+    "pontos": 10,
+    "golsPro": 4,
+    "golsContra": 2,
+    "saldoGols": 2
   }
 ]

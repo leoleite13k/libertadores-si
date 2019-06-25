@@ -1,39 +1,10 @@
 [
   {
     "input": {
-      "pontos": 16,
-      "saldoGols": 11,
-      "golsPro": 14
-    },
-    "output": {
-      "campeao": 0
-    }
-  },
-  {
-    "input": {
-      "pontos": 9,
-      "saldoGols": 4,
-      "golsPro": 8
-    },
-    "output": {
-      "campeao": 0
-    }
-  },
-  {
-    "input": {
-      "pontos": 12,
-      "saldoGols": 3,
-      "golsPro": 6
-    },
-    "output": {
-      "campeao": 1
-    }
-  },
-  {
-    "input": {
       "pontos": 14,
-      "saldoGols": 11,
-      "golsPro": 13
+      "golsPro": 13,
+      "golsContra": 2,
+      "saldoGols": 11
     },
     "output": {
       "campeao": 0
@@ -42,28 +13,9 @@
   {
     "input": {
       "pontos": 13,
-      "saldoGols": 9,
-      "golsPro": 15
-    },
-    "output": {
-      "campeao": 1
-    }
-  },
-  {
-    "input": {
-      "pontos": 13,
-      "saldoGols": 10,
-      "golsPro": 13
-    },
-    "output": {
-      "campeao": 0
-    }
-  },
-  {
-    "input": {
-      "pontos": 13,
-      "saldoGols": 5,
-      "golsPro": 14
+      "golsPro": 8,
+      "golsContra": 8,
+      "saldoGols": 0
     },
     "output": {
       "campeao": 0
@@ -72,8 +24,9 @@
   {
     "input": {
       "pontos": 10,
-      "saldoGols": 0,
-      "golsPro": 8
+      "golsPro": 9,
+      "golsContra": 3,
+      "saldoGols": 6
     },
     "output": {
       "campeao": 0
@@ -81,69 +34,10 @@
   },
   {
     "input": {
-      "pontos": 11,
-      "saldoGols": 3,
-      "golsPro": 7
-    },
-    "output": {
-      "campeao": 0
-    }
-  },
-  {
-    "input": {
-      "pontos": 12,
-      "saldoGols": 7,
-      "golsPro": 11
-    },
-    "output": {
-      "campeao": 0
-    }
-  },
-  {
-    "input": {
-      "pontos": 9,
-      "saldoGols": 6,
-      "golsPro": 11
-    },
-    "output": {
-      "campeao": 0
-    }
-  },
-  {
-    "input": {
-      "pontos": 16,
-      "saldoGols": 12,
-      "golsPro": 12
-    },
-    "output": {
-      "campeao": 1
-    }
-  },
-  {
-    "input": {
-      "pontos": 14,
-      "saldoGols": 9,
-      "golsPro": 16
-    },
-    "output": {
-      "campeao": 0
-    }
-  },
-  {
-    "input": {
-      "pontos": 7,
-      "saldoGols": 1,
-      "golsPro": 8
-    },
-    "output": {
-      "campeao": 1
-    }
-  },
-  {
-    "input": {
-      "pontos": 9,
-      "saldoGols": 2,
-      "golsPro": 12
+      "pontos": 8,
+      "golsPro": 5,
+      "golsContra": 5,
+      "saldoGols": 0
     },
     "output": {
       "campeao": 0
@@ -152,8 +46,658 @@
   {
     "input": {
       "pontos": 13,
-      "saldoGols": 6,
-      "golsPro": 13
+      "golsPro": 10,
+      "golsContra": 4,
+      "saldoGols": 6
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 7,
+      "golsContra": 6,
+      "saldoGols": 1
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "golsPro": 6,
+      "golsContra": 3,
+      "saldoGols": 3
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 7,
+      "golsContra": 4,
+      "saldoGols": 3
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 15,
+      "golsContra": 5,
+      "saldoGols": 10
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 12,
+      "golsContra": 6,
+      "saldoGols": 6
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 6,
+      "golsContra": 4,
+      "saldoGols": 2
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 8,
+      "golsPro": 6,
+      "golsContra": 4,
+      "saldoGols": 2
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 11,
+      "golsContra": 5,
+      "saldoGols": 6
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 6,
+      "golsContra": 4,
+      "saldoGols": 2
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 16,
+      "golsPro": 14,
+      "golsContra": 3,
+      "saldoGols": 11
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 8,
+      "golsContra": 4,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 6,
+      "golsContra": 5,
+      "saldoGols": 1
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 8,
+      "golsContra": 8,
+      "saldoGols": 0
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "golsPro": 11,
+      "golsContra": 4,
+      "saldoGols": 7
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 9,
+      "golsContra": 5,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 14,
+      "golsContra": 9,
+      "saldoGols": 5
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 8,
+      "golsContra": 5,
+      "saldoGols": 3
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 8,
+      "golsContra": 8,
+      "saldoGols": 0
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 9,
+      "golsContra": 10,
+      "saldoGols": -1
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 13,
+      "golsContra": 9,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 12,
+      "golsContra": 10,
+      "saldoGols": 2
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 17,
+      "golsContra": 6,
+      "saldoGols": 11
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 10,
+      "golsContra": 8,
+      "saldoGols": 2
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 13,
+      "golsContra": 3,
+      "saldoGols": 10
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 8,
+      "golsPro": 5,
+      "golsContra": 3,
+      "saldoGols": 2
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 15,
+      "golsContra": 6,
+      "saldoGols": 9
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 9,
+      "golsContra": 7,
+      "saldoGols": 2
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 17,
+      "golsContra": 7,
+      "saldoGols": 10
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 11,
+      "golsContra": 5,
+      "saldoGols": 6
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 13,
+      "golsContra": 8,
+      "saldoGols": 5
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 6,
+      "golsContra": 6,
+      "saldoGols": 0
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "golsPro": 11,
+      "golsContra": 4,
+      "saldoGols": 7
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 11,
+      "golsContra": 7,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 16,
+      "golsPro": 12,
+      "golsContra": 0,
+      "saldoGols": 12
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 8,
+      "golsPro": 7,
+      "golsContra": 7,
+      "saldoGols": 0
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 12,
+      "golsContra": 4,
+      "saldoGols": 8
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 7,
+      "golsContra": 4,
+      "saldoGols": 3
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 9,
+      "golsContra": 5,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 10,
+      "golsContra": 6,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 15,
+      "golsPro": 17,
+      "golsContra": 8,
+      "saldoGols": 9
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 6,
+      "golsContra": 11,
+      "saldoGols": -5
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 13,
+      "golsContra": 4,
+      "saldoGols": 9
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 6,
+      "golsContra": 7,
+      "saldoGols": -1
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "golsPro": 10,
+      "golsContra": 5,
+      "saldoGols": 5
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 5,
+      "golsContra": 4,
+      "saldoGols": 1
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 9,
+      "golsContra": 3,
+      "saldoGols": 6
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "golsPro": 9,
+      "golsContra": 3,
+      "saldoGols": 5
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 8,
+      "golsContra": 3,
+      "saldoGols": 5
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 4,
+      "golsContra": 3,
+      "saldoGols": 1
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 13,
+      "golsPro": 13,
+      "golsContra": 7,
+      "saldoGols": 6
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 9,
+      "golsContra": 5,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 18,
+      "golsPro": 19,
+      "golsContra": 2,
+      "saldoGols": 17
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 9,
+      "golsContra": 8,
+      "saldoGols": 1
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 14,
+      "golsPro": 16,
+      "golsContra": 7,
+      "saldoGols": 9
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 7,
+      "golsPro": 8,
+      "golsContra": 7,
+      "saldoGols": 1
+    },
+    "output": {
+      "campeao": 1
+    }
+  },
+  {
+    "input": {
+      "pontos": 11,
+      "golsPro": 12,
+      "golsContra": 7,
+      "saldoGols": 5
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 10,
+      "golsPro": 7,
+      "golsContra": 3,
+      "saldoGols": 4
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 12,
+      "golsPro": 15,
+      "golsContra": 7,
+      "saldoGols": 8
+    },
+    "output": {
+      "campeao": 0
+    }
+  },
+  {
+    "input": {
+      "pontos": 9,
+      "golsPro": 12,
+      "golsContra": 10,
+      "saldoGols": 2
     },
     "output": {
       "campeao": 0
