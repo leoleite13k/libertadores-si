@@ -27,6 +27,7 @@ const ganhador = {
 };
 let porcent = 0;
 let maior = 0;
+
 // Realizando treinamento com jogos de anos anteriores
 let trainResult = net.train(anosAnteriores, {
   iterations: 20000,
